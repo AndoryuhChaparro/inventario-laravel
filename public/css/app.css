@@ -1,0 +1,28 @@
+.contenedor {
+    margin: 30px;
+}
+
+.contenedor div, .contenedor p {
+    margin-bottom: 18px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 14px 18px !important;
+    text-align: left;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 8px 14px;
+}
